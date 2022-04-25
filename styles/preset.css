@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: "Times New Roman", Times, serif;
+}
+
+:root {
+  --vermelho: #e50914;
+  --preta: #141414;
+}
